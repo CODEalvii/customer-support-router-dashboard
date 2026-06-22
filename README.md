@@ -30,5 +30,5 @@ For the full request lifecycle diagram, please see our formal report.
 
 The complete engineering logs, architectural decisions, API security reviews, error handling structures, and self-reliance audits are documented in our official engineering report.
 
-📄 Click here to view the Engineering Log Final PDF
+
 
